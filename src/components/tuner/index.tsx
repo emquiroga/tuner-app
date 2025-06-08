@@ -20,7 +20,6 @@ export default Tuner;
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#0e0e0e',
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20,
@@ -38,7 +37,7 @@ const styles = StyleSheet.create({
   tuningBarContainer: {
     width: '80%',
     height: 20,
-    backgroundColor: '#444',
+    backgroundColor: 'pink',
     borderRadius: 10,
     overflow: 'hidden',
     marginVertical: 20,
